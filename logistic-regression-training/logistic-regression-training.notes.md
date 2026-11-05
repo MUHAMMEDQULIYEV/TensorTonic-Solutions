@@ -1,0 +1,1 @@
+np.clip:misal bizim arrayimiz var biz bu arrayda isteyirik ki minden kciikler mine beraber olsun maxdan boyukler maxa beraber olsun bu zaman clippingden istifade edirik

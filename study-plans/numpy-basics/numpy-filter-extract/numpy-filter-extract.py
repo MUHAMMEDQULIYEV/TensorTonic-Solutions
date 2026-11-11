@@ -7,4 +7,4 @@ def filter_and_extract(data: list, row_start: int, row_stop: int, threshold: flo
     arr=np.array(data,dtype=np.float64)
     mask_value=arr[row_start:row_stop,:]>threshold
     sub=np.extract(mask_value,arr[row_start:row_stop])
-    return sub[sub>threshold]
+    return sub

@@ -1,0 +1,1 @@
+torch.empty garbage deyerler doldurur ona gore de initialize etmek ucun biz nn.init.kaiming.uniform_()dan istifade edirik ilkin olaraq
